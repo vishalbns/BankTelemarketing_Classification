@@ -1,1 +1,1 @@
-[Telemarketing Success - Prediction ML from scratch.pptx](https://github.com/vishalbns/BankTelemarketing_Classification/files/15462263/Telemarketing.Success.-.Prediction.ML.from.scratch.pptx)
+[Telemarketing Success - Prediction ML from scratch.pdf](https://github.com/vishalbns/BankTelemarketing_Classification/files/15462267/Telemarketing.Success.-.Prediction.ML.from.scratch.pdf)
